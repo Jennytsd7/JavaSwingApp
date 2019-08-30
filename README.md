@@ -1,14 +1,3 @@
-# Project 1
+# JavaSwingApp
 
-Tab_21 belongs to Joshua Drumm
-
-Tab_27 belongs to Bharat Goel
-
-Tab_45 belongs to David Lahtinen
-
-Tab_69 belongs to Jahnvi Rai
-
-Tab_48 belongs to Hsin-Jung Lee
-
-
-Frame_81 belongs to Sarthak Tiwari
+Developed as a part of SER516 - Software Agility course to demonstrate working with a huge team (size: 90 developers)following coding guideline (DRY, KISS, etc) and proper code review methods.
